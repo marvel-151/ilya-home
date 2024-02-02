@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+header{background-color: aqua;
+       border:5px double blue;
+       border-radius:15px;
+       padding:10px;
+       margin:5px;
+}
+header a{ background-color:rgb(0, 128, 248);
+           color:black;  
+            border-radius:15px; 
+             padding:10px;
+             margin:5px;  
+             text-decoration:none ;  
+}
+header img{ border-radius:10px;
+       padding:5px;
+       margin:5px;
+}
+h1{ text-align: center;
+    background-color: aqua;
+    border:5px double blue;
+     border-radius:15px;
+       padding:10px;
+       margin:5px;
+}
+footer p{ background-color: aqua;
+          border:3px solid blue ;
+}
+nav a{ background-color: blue;
+       color: aqua;
+        border-radius:10px;
+       padding:5px;
+       margin:3px;
+       text-decoration:none;
+}
+nav{ text-align: center;
+}
+body{background-color: rgb(137, 237, 255);
+}
+.first{ background-color:white;
+            border-radius:10px;
+       padding:3px;
+       margin:3px;
+       border:2px solid blue ;
+}
+.cabbage{ background-color: white;
+          border:2px solid blue;
+       border-radius:10px;
+       padding:3px;
+       margin:3px;
+}
